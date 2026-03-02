@@ -108,10 +108,6 @@ Contributions:
 
 - Bachelor of Engineering (Electronics & Telecommunication), Savitribai Phule Pune University — Higher Second Class
 
-## Projects
-
-Below are a few highlighted projects. Click a project to see more details.
-
 - [Autonomous Control Library](projects/autonomous-control-library.md) — Middleware and LiDAR drivers for autonomous off‑highway machines.
 - [Automated Test Tools for Rail Electronics](projects/automated-test-tools.md) — LabVIEW-based automated test frameworks.
 - [Load Sensor Development](projects/load-sensor-development.md) — Sensor firmware, calibration, and production support.
