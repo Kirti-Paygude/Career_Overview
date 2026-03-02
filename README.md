@@ -11,16 +11,10 @@
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/kirti-paygude](https://www.linkedin.com/in/kirti-paygude-37bb5a8b)
   : <span class="iconify" data-icon="tabler:mail"></span> [kmpaygude@gmail.com](mailto:kmpaygude@gmail.com)
 
-<p align="left">
-	<img src="images/Kirti.jpg" alt="Kirti Paygude" width="160" />
-</p>
-
----
 ## Professional Summary
 
 Embedded Software Engineer with 12+ years of experience in embedded systems, developing high-quality firmware and control software for industrial and mobile equipment. Skilled in text based and graphical software programming, with a proven track record of delivering full software lifecycle projects including specification, design, verification, release, and maintenance. Experienced in debugging hardware/software interfaces, writing and maintaining technical documentation, and defining structured test strategies. Passionate about continuous improvement and advancing sustainable technologies through agile development and cross-functional collaboration.
 
----
 ## Way of Working
 
 - Comfortable working independently or in team with transparency and clear responsibility
@@ -30,7 +24,6 @@ Embedded Software Engineer with 12+ years of experience in embedded systems, dev
 - Values automation of repeatable processes to ensure consistency, reduce manual effort, and support sustainable delivery
 - Passionate to learn new technologies
 
----
 ## Key Skills
 
 - **Programming:** Assembly, C/C++, Python, LabVIEW, VB
@@ -38,7 +31,7 @@ Embedded Software Engineer with 12+ years of experience in embedded systems, dev
 - **Tools & Platforms:** PLUS+1 GUIDE, Azure DevOps, Polarion, ROS, Git, SVN, REST APIs, Jira
 - **Testing & Debugging:** Oscilloscope, LabVIEW, REST APIs
 - **Methodologies:** Agile/Scrum, CI/CD, Functional Safety, DFMEA
----
+
 ## Certifications & Training
 
 - MATLAB Onramp — Dec 2021
@@ -46,14 +39,14 @@ Embedded Software Engineer with 12+ years of experience in embedded systems, dev
 - LabVIEW Core 1 & 2 — Mar 2019
 - Functional Safety Engineer (IEC61508:2010) — Jun 2022
 - Certified Scrum Product Owner — Jul 2025
----
+
 ## Languages
 
 - English — Fluent
 - Danish — Beginner
 - Marathi — Native
 - Hindi — Native
----
+
 ## Professional Experience
 
 ### Danfoss Power Solutions
@@ -110,11 +103,9 @@ Contributions:
 
 **Tools:** Oscilloscope, Function Generator, MPLAB, NI LabVIEW
 
----
 ## Education
 
 - Bachelor of Engineering (Electronics & Telecommunication), Savitribai Phule Pune University — Higher Second Class
----
 
 ## Projects
 **Project1** - Contribution
