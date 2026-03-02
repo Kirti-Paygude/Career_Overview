@@ -3,17 +3,18 @@
 
 # Kirti Manik Paygude
 
-<span class="iconify" data-icon="charm:person"></span> [example.com](https://example.com/)
-  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/Kirti-Paygude](https://github.com/Kirti-Paygude)
-  : <span class="iconify" data-icon="tabler:phone"></span> [(+91) 9403983983](https://wa.me/919403983983)
+![Kirti Paygude](images/Kirti.jpg){ width="160" }
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> Pune, Maharashtra, India
-  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/kirti-paygude](https://www.linkedin.com/in/kirti-paygude-37bb5a8b)
-  : <span class="iconify" data-icon="tabler:mail"></span> [kmpaygude@gmail.com](mailto:kmpaygude@gmail.com)
+**Contact**
 
-## Professional Summary
+- **Phone:** +91 9403983983, +91 9403982982
+- **Email:** kmpaygude@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/kirti-paygude-37bb5a8b
+- **Location:** Pune, Maharashtra, India (411046)
 
-Embedded Software Engineer with 12+ years of experience in embedded systems, developing high-quality firmware and control software for industrial and mobile equipment. Skilled in text based and graphical software programming, with a proven track record of delivering full software lifecycle projects including specification, design, verification, release, and maintenance. Experienced in debugging hardware/software interfaces, writing and maintaining technical documentation, and defining structured test strategies. Passionate about continuous improvement and advancing sustainable technologies through agile development and cross-functional collaboration.
+## PROFESSIONAL SUMMARY / PROFESSIONELT OPSUMMERING
+
+Embedded Software Engineer with 12+ years of experience in embedded systems, developing high-quality firmware and control software for industrial and mobile equipment. Skilled in text-based and graphical software programming, with a proven track record of delivering full software lifecycle projects including specification, design, verification, release, and maintenance. Experienced in debugging hardware/software interfaces, writing and maintaining technical documentation, and defining structured test strategies. Passionate about continuous improvement and advancing sustainable technologies through agile development and cross-functional collaboration.
 
 ## Way of Working
 
@@ -108,4 +109,11 @@ Contributions:
 - Bachelor of Engineering (Electronics & Telecommunication), Savitribai Phule Pune University — Higher Second Class
 
 ## Projects
-**Project1** - Contribution
+
+Below are a few highlighted projects. Click a project to see more details.
+
+- [Autonomous Control Library](projects/autonomous-control-library.md) — Middleware and LiDAR drivers for autonomous off‑highway machines.
+- [Automated Test Tools for Rail Electronics](projects/automated-test-tools.md) — LabVIEW-based automated test frameworks.
+- [Load Sensor Development](projects/load-sensor-development.md) — Sensor firmware, calibration, and production support.
+- [Industrial Automation & Inspection Systems](projects/industrial-automation.md) — Inspection product development using LabVIEW and embedded C.
+- [UPS Control & Monitoring](projects/ups-control-monitoring.md) — Embedded firmware and simulation tools for UPS systems.
