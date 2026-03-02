@@ -47,7 +47,9 @@ Embedded Software Engineer with 12+ years of experience in embedded systems, dev
 
 ### Danfoss Power Solutions
 **Sr. Software Engineer | Danfoss Power Solutions Pvt. Ltd., Pune, India | May 2021 – Sep 2023**
+
 **Danfoss Power Solutions ApS, Nordborg, Denmark (Assignment) | Oct 2023 – Sep 2025**
+
 **Danfoss Power Solutions Pvt. Ltd., Pune, India | Oct 2025 – Feb 2026**
 
 Responsibilities & achievements:
@@ -69,6 +71,7 @@ Responsibilities:
 
 ### HUSCO Hydraulics Pvt. Ltd.
 **Sr. Engineer — Embedded Software | Apr 2019 – Oct 2019**
+
 **Embedded Software Engineer | Jan 2016 – Mar 2019**
 
 Contributions:
@@ -79,6 +82,7 @@ Contributions:
 
 ### Propix Technologies Pvt. Ltd.
 **LabVIEW Developer | Apr 2015 – Jan 2016**
+
 **Assistant LabVIEW Developer | Mar 2014 – Mar 2015**
 
 Contributions:
