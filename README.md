@@ -98,10 +98,12 @@ Contributions:
 - Developed simulation/test software in NI LabVIEW and embedded assembly for UPS control systems.
 
 **Tools:** Oscilloscope, Function Generator, MPLAB, NI LabVIEW
+
 ---
 ## Education
 
 - Bachelor of Engineering (Electronics & Telecommunication), Savitribai Phule Pune University — Higher Second Class
+---
 
 ## Projects
 **Project1** - Contribution
