@@ -8,6 +8,7 @@
 ## Professional Summary
 
 Embedded Software Engineer with 12+ years of experience in embedded systems, developing high-quality firmware and control software for industrial and mobile equipment. Skilled in text based and graphical software programming, with a proven track record of delivering full software lifecycle projects including specification, design, verification, release, and maintenance. Experienced in debugging hardware/software interfaces, writing and maintaining technical documentation, and defining structured test strategies. Passionate about continuous improvement and advancing sustainable technologies through agile development and cross-functional collaboration.
+
 ---
 ## Way of Working
 
