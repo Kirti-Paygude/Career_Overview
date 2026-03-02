@@ -1,5 +1,9 @@
 # Kirti Manik Paygude
 
+<p align="left">
+	<img src="images/Kirti.jpg" alt="Kirti Paygude" width="160" />
+</p>
+
 ## Contact
 
 - **Name:** Kirti Manik Paygude
