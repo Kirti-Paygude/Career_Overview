@@ -1,21 +1,14 @@
 # Kirti Manik Paygude
-
+**LinkedIn:** https://www.linkedin.com/in/kirti-paygude-37bb5a8b | **Phone:** +91 9403983983 | **Email:** kmpaygude@gmail.com | **Location:** Pune, Maharashtra, India
 <p align="left">
 	<img src="images/Kirti.jpg" alt="Kirti Paygude" width="160" />
 </p>
 
-## Contact
-
-- **Name:** Kirti Manik Paygude
-- **LinkedIn:** https://www.linkedin.com/in/kirti-paygude-37bb5a8b
-- **Phone:** +91 9403983983, +91 9403982982
-- **Email:** kmpaygude@gmail.com
-- **Location:** Pune, Maharashtra, India (411046)
-
+---
 ## Professional Summary
 
 Embedded Software Engineer with 12+ years of experience in embedded systems, developing high-quality firmware and control software for industrial and mobile equipment. Skilled in text based and graphical software programming, with a proven track record of delivering full software lifecycle projects including specification, design, verification, release, and maintenance. Experienced in debugging hardware/software interfaces, writing and maintaining technical documentation, and defining structured test strategies. Passionate about continuous improvement and advancing sustainable technologies through agile development and cross-functional collaboration.
-
+---
 ## Way of Working
 
 - Comfortable working independently or in team with transparency and clear responsibility
@@ -25,7 +18,7 @@ Embedded Software Engineer with 12+ years of experience in embedded systems, dev
 - Values automation of repeatable processes to ensure consistency, reduce manual effort, and support sustainable delivery
 - Passionate to learn new technologies
 
-
+---
 ## Key Skills
 
 - **Programming:** Assembly, C/C++, Python, LabVIEW, VB
@@ -33,7 +26,7 @@ Embedded Software Engineer with 12+ years of experience in embedded systems, dev
 - **Tools & Platforms:** PLUS+1 GUIDE, Azure DevOps, Polarion, ROS, Git, SVN, REST APIs, Jira
 - **Testing & Debugging:** Oscilloscope, LabVIEW, REST APIs
 - **Methodologies:** Agile/Scrum, CI/CD, Functional Safety, DFMEA
-
+---
 ## Certifications & Training
 
 - MATLAB Onramp — Dec 2021
@@ -41,20 +34,20 @@ Embedded Software Engineer with 12+ years of experience in embedded systems, dev
 - LabVIEW Core 1 & 2 — Mar 2019
 - Functional Safety Engineer (IEC61508:2010) — Jun 2022
 - Certified Scrum Product Owner — Jul 2025
-
+---
 ## Languages
 
 - English — Fluent
 - Danish — Beginner
 - Marathi — Native
 - Hindi — Native
-
+---
 ## Professional Experience
 
 ### Danfoss Power Solutions
-- **Sr. Software Engineer** — Danfoss Power Solutions Pvt. Ltd., Pune, India (May 2021 – Sep 2023)
-- **Assignment:** Danfoss Power Solutions ApS, Nordborg, Denmark (Oct 2023 – Sep 2025)
-- **Role (current/most recent):** Danfoss Power Solutions Pvt. Ltd., Pune, India (Oct 2025 – Present)
+**Sr. Software Engineer | Danfoss Power Solutions Pvt. Ltd., Pune, India | May 2021 – Sep 2023**
+**Danfoss Power Solutions ApS, Nordborg, Denmark (Assignment) | Oct 2023 – Sep 2025**
+**Danfoss Power Solutions Pvt. Ltd., Pune, India | Oct 2025 – Feb 2026**
 
 Responsibilities & achievements:
 - Developed and released middleware for an Autonomous Control Library and compliance libraries, including LiDAR drivers for off‑highway machines (C, PLUS+1 GUIDE) on embedded Linux.
@@ -65,7 +58,7 @@ Responsibilities & achievements:
 **Tools:** C/C++, Python, PLUS+1 GUIDE, ROS (Ubuntu), TortoiseSVN, Azure Git, Polarion
 
 ### Sphinx Worldbiz Ltd. (Contract to Knorr‑Bremse Technology Center India)
-- **Sr. Software Engineer** — Pune, India (Oct 2019 – May 2021)
+**Sr. Software Engineer | Oct 2019 – May 2021**
 
 Responsibilities:
 - Built automated test tools for rail electronics systems and designed LabVIEW OOP modules.
@@ -74,8 +67,8 @@ Responsibilities:
 **Tools:** LabVIEW 2018, TortoiseSVN, JIRA
 
 ### HUSCO Hydraulics Pvt. Ltd.
-- **Sr. Engineer — Embedded Software** (Apr 2019 – Oct 2019)
-- **Embedded Software Engineer** (Jan 2016 – Mar 2019)
+**Sr. Engineer — Embedded Software | Apr 2019 – Oct 2019**
+**Embedded Software Engineer | Jan 2016 – Mar 2019**
 
 Contributions:
 - Worked on load sensor development from component selection through production and certification.
@@ -84,8 +77,8 @@ Contributions:
 **Tools:** IAR Embedded Workbench (AVR32), Serena PVCS & Tracker, Android Studio, Embedded C, CAN J1939, Vector CANalyzer
 
 ### Propix Technologies Pvt. Ltd.
-- **LabVIEW Developer** (Apr 2015 – Jan 2016)
-- **Assistant LabVIEW Developer** (Mar 2014 – Mar 2015)
+**LabVIEW Developer | Apr 2015 – Jan 2016**
+**Assistant LabVIEW Developer | Mar 2014 – Mar 2015**
 
 Contributions:
 - Trained support engineers and developed product documentation and test plans.
@@ -94,13 +87,16 @@ Contributions:
 **Tools:** Keil uV3/uV4, NI LabVIEW, NI Vision Development Module
 
 ### Magnaflux Systems Pvt. Ltd.
-- **R&D Engineer** (Jun 2012 – Oct 2013)
+**R&D Engineer | Jun 2012 – Oct 2013**
 
 Contributions:
 - Developed simulation/test software in NI LabVIEW and embedded assembly for UPS control systems.
 
 **Tools:** Oscilloscope, Function Generator, MPLAB, NI LabVIEW
-
+---
 ## Education
 
 - Bachelor of Engineering (Electronics & Telecommunication), Savitribai Phule Pune University — Higher Second Class
+
+## Projects
+**Project1** - Contribution
