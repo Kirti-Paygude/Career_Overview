@@ -3,7 +3,7 @@
 
 # Kirti Manik Paygude
 
-![Kirti Paygude](images/Kirti.jpg){ width="160" }
+![Kirti Paygude](images/Kirti.jpg)
 
 **Contact**
 
