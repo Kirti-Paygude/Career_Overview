@@ -1,5 +1,16 @@
+---
+---
+
 # Kirti Manik Paygude
-**LinkedIn:** https://www.linkedin.com/in/kirti-paygude-37bb5a8b | **Phone:** +91 9403983983 | **Email:** kmpaygude@gmail.com | **Location:** Pune, Maharashtra, India
+
+<span class="iconify" data-icon="charm:person"></span> [example.com](https://example.com/)
+  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/Kirti-Paygude](https://github.com/Kirti-Paygude)
+  : <span class="iconify" data-icon="tabler:phone"></span> [(+91) 9403983983](https://wa.me/919403983983)
+
+<span class="iconify" data-icon="ic:outline-location-on"></span> Pune, Maharashtra, India
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/kirti-paygude](https://www.linkedin.com/in/kirti-paygude-37bb5a8b)
+  : <span class="iconify" data-icon="tabler:mail"></span> [kmpaygude@gmail.com](mailto:kmpaygude@gmail.com)
+
 <p align="left">
 	<img src="images/Kirti.jpg" alt="Kirti Paygude" width="160" />
 </p>
